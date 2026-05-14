@@ -29,7 +29,11 @@ This task improved my understanding of Python modules, string manipulation, rand
 
 FILES USED : 
 
-
+[satya apsche task 3.py](https://github.com/user-attachments/files/27743652/satya.apsche.task.3.py)
 
 OUTPUTS:
+
+<img width="1067" height="295" alt="Image" src="https://github.com/user-attachments/assets/1ace62fa-c1db-4c1e-b7a3-d523f26ac9da" />
+<img width="1801" height="940" alt="Image" src="https://github.com/user-attachments/assets/3cd456a1-8537-4b36-a5b7-30018a17b352" />
+
 **Completed APSCHE Internship Task 3 – Developed a Password Generator using Python with customizable length, random character generation, and secure password creation features.**
